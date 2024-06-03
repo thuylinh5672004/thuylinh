@@ -12,8 +12,8 @@ namespace DTTLBaiDanhGiaGiuaky.Controllers
         private static List<DTLProduct> dTLProducts = new List<DTLProduct>()
 
         {
-            new DTLProduct{ID = 221090036,dtlFullName="thùy linh", dtlImage="anh",  dtlQuantity=23,dtlPrice =12000, dtlisActive='8'},
-            new DTLProduct{ID = 221090037,dtlFullName="thùy thảo", dtlImage="anh",  dtlQuantity=27,dtlPrice =15000, dtlisActive='6'},
+            new DTLProduct{dtlID = 5,dtlFullName="thùy linh", dtlImage="imageA.jpg",  dtlQuantity=23,dtlPrice =12000, dtlisActive=true},
+            new DTLProduct{dtlID = 6,dtlFullName="thùy thảo", dtlImage="imageB.jpg",  dtlQuantity=27,dtlPrice =15000, dtlisActive=true}
 
         };
         // GET: DTL

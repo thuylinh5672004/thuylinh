@@ -1,0 +1,57 @@
+﻿@model IEnumerable<DTTLBaiDanhGiaGiuaky.Models.DTLProduct>
+
+@{
+    ViewBag.Title = "bang gia";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("them moi", "DTLCreate")
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.dtlFullName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dtlImage)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dtlQuantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dtlPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dtlisActive)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var DTLitem in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem =>DTLitem.dtlFullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => DTLitem.dtlImage)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => DTLitem.dtlQuantity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => DTLitem.dtlPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => DTLitem.dtlisActive)
+        </td>
+        <td>
+            @Html.ActionLink("DTLEdit", "DTLEdit", new { id=DTLitem.ID }) |
+            @Html.ActionLink("DTLDetails", "DTlDetails", new { id=DTLitem.ID }) |
+            @Html.ActionLink("DTLDelete", "DTLDelete", new { id=DTLitem.ID })
+        </td>
+    </tr>
+}
+
+</table>

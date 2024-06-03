@@ -1,16 +1,19 @@
-﻿@model IEnumerable<DTTLBaiDanhGiaGiuaky.Models.DTLProduct>
+@model IEnumerable<DTTLBaiDanhGiaGiuaky.Models.DTLProduct>
 
 @{
-    ViewBag.Title = "bang gia";
+    ViewBag.Title = "nhập giá";
 }
 
 <h2>Index</h2>
 
 <p>
-    @Html.ActionLink("them moi", "DTLCreate")
+    @Html.ActionLink("thêm mới", "DTL")
 </p>
 <table class="table table-bordered">
     <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.dtlID)
+        </th>
         <th>
             @Html.DisplayNameFor(model => model.dtlFullName)
         </th>
@@ -32,7 +35,10 @@
 @foreach (var DTLitem in Model) {
     <tr>
         <td>
-            @Html.DisplayFor(modelItem =>DTLitem.dtlFullName)
+            @Html.DisplayFor(modelItem => DTLitem.dtlID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => DTLitem.dtlFullName)
         </td>
         <td>
             @Html.DisplayFor(modelItem => DTLitem.dtlImage)
@@ -47,9 +53,9 @@
             @Html.DisplayFor(modelItem => DTLitem.dtlisActive)
         </td>
         <td>
-            @Html.ActionLink("DTLEdit", "DTLEdit", new { id=DTLitem.ID }) |
-            @Html.ActionLink("DTLDetails", "DTlDetails", new { id=DTLitem.ID }) |
-            @Html.ActionLink("DTLDelete", "DTLDelete", new { id=DTLitem.ID })
+            @Html.ActionLink("DTLEdit", "DTLEdit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("DTLDetails", "DTLDetails", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("DTLDelete", "DTLDelete", new { /* id=item.PrimaryKey */ })
         </td>
     </tr>
 }

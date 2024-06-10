@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson08cf\\dtllesson08cf\\controllers\\dtlbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|solutionrelative:dtllesson08cf\\controllers\\dtlbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson08cf\\dtllesson08cf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|solutionrelative:dtllesson08cf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson08cf\\dtllesson08cf\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|solutionrelative:dtllesson08cf\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson08cf\\dtllesson08cf\\views\\dtlcategory\\dtlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|solutionrelative:dtllesson08cf\\views\\dtlcategory\\dtlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson08cf\\dtllesson08cf\\views\\dtlcategory\\dtlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|solutionrelative:dtllesson08cf\\views\\dtlcategory\\dtlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson08cf\\dtllesson08cf\\controllers\\dtlcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|solutionrelative:dtllesson08cf\\controllers\\dtlcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson08cf\\dtllesson08cf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|solutionrelative:dtllesson08cf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson08cf\\dtllesson08cf\\models\\dtlbookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|solutionrelative:dtllesson08cf\\models\\dtlbookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson08cf\\dtllesson08cf\\models\\dtlbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|solutionrelative:dtllesson08cf\\models\\dtlbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson08cf\\dtllesson08cf\\models\\dtlcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B7E7B-1227-43FE-BCEE-4F030BB9604E}|DtlLesson08CF\\DtlLesson08CF.csproj|solutionrelative:dtllesson08cf\\models\\dtlcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DtlBooksController.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Controllers\\DtlBooksController.cs",
+              "RelativeDocumentMoniker": "DtlLesson08CF\\Controllers\\DtlBooksController.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Controllers\\DtlBooksController.cs",
+              "RelativeToolTip": "DtlLesson08CF\\Controllers\\DtlBooksController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:37:39.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson08CF\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DtlLesson08CF\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:34:44.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Global.asax.cs",
+              "RelativeDocumentMoniker": "DtlLesson08CF\\Global.asax.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Global.asax.cs",
+              "RelativeToolTip": "DtlLesson08CF\\Global.asax.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:16:22.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DtlCreate.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Views\\DtlCategory\\DtlCreate.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson08CF\\Views\\DtlCategory\\DtlCreate.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Views\\DtlCategory\\DtlCreate.cshtml",
+              "RelativeToolTip": "DtlLesson08CF\\Views\\DtlCategory\\DtlCreate.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:04:05.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DtlIndex.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Views\\DtlCategory\\DtlIndex.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson08CF\\Views\\DtlCategory\\DtlIndex.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Views\\DtlCategory\\DtlIndex.cshtml",
+              "RelativeToolTip": "DtlLesson08CF\\Views\\DtlCategory\\DtlIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T08:52:37.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DtlCategoryController.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Controllers\\DtlCategoryController.cs",
+              "RelativeDocumentMoniker": "DtlLesson08CF\\Controllers\\DtlCategoryController.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Controllers\\DtlCategoryController.cs",
+              "RelativeToolTip": "DtlLesson08CF\\Controllers\\DtlCategoryController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:45:05.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Web.config",
+              "RelativeDocumentMoniker": "DtlLesson08CF\\Web.config",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Web.config",
+              "RelativeToolTip": "DtlLesson08CF\\Web.config",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-10T07:31:18.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DtlBookStore.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Models\\DtlBookStore.cs",
+              "RelativeDocumentMoniker": "DtlLesson08CF\\Models\\DtlBookStore.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Models\\DtlBookStore.cs",
+              "RelativeToolTip": "DtlLesson08CF\\Models\\DtlBookStore.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:22:06.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DtlBook.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Models\\DtlBook.cs",
+              "RelativeDocumentMoniker": "DtlLesson08CF\\Models\\DtlBook.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Models\\DtlBook.cs",
+              "RelativeToolTip": "DtlLesson08CF\\Models\\DtlBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:07:26.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DtlCategory.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Models\\DtlCategory.cs",
+              "RelativeDocumentMoniker": "DtlLesson08CF\\Models\\DtlCategory.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson08CF\\DtlLesson08CF\\Models\\DtlCategory.cs",
+              "RelativeToolTip": "DtlLesson08CF\\Models\\DtlCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:02:52.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

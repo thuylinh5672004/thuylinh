@@ -1,0 +1,66 @@
+﻿@model DtlLesson08CF.Models.DtlBook
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>DtlBook</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DtlCategory.DtlCategoryId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DtlCategory.DtlCategoryId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DtlTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DtlTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DtlAuthor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DtlAuthor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DtlYear)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DtlYear)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DtlPublisher)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DtlPublisher)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DtlPicture)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DtlPicture)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.DtlBookId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

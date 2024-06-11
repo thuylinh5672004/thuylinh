@@ -42,7 +42,7 @@ export default function DtlTaskAddOrEdit({dtlOnSubmit, renderDtlTask,renderDtlAd
                 <div className="input-group mb-3">
                         <span className="input-group-text" id="basic-addon1">Task ID</span>
                         <input type="text" 
-                            name='dtl_taskId' value={dtlTask.thu_taskId} onChange={dtlHandleChange} 
+                            name='dtl_taskId' value={dtlTask.dtl_taskId} onChange={dtlHandleChange} 
                             className="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1" />
                     </div>
                     <div className="input-group mb-3">

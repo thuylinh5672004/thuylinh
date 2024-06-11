@@ -1,6 +1,6 @@
 import React,{ useEffect, useState} from 'react'
 
-export default function DtlTaskAddOrEdit({dtlOnSubmit, renderDtlTask}) {
+export default function DtlTaskAddOrEdit({dtlOnSubmit, renderDtlTask,renderDtlAddOrEdit}) {
     console.log(" DtlTaskAddOrEdit",renderDtlTask,renderDtlAddOrEdit);
     
     const dtlTaskObj={

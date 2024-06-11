@@ -11,7 +11,7 @@ namespace DtlLesson08CF.Models
     {
         [Key]
         public int DtlCategoryId { get; set; }
-        public int DtlCategoryName  { get; set; }
+        public string DtlCategoryName  { get; set; }
         //thuộc tính đièu hướng
         public virtual ICollection<DtlBook> DtlBooks { get; set; }
     }

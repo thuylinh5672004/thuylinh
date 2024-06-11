@@ -40,29 +40,28 @@ export default function DtlTaskAddOrEdit({dtlOnSubmit, renderDtlTask,renderDtlAd
             <h2>{dtlTitle} </h2>
             <form>
                 <div className="input-group mb-3">
-                    <span className="input-group-text" id="basic-addon1">Task ID</span>
-                    <input type="text" 
-                        name='dtl_taskTd' value={dtlTask.dtl_taskId} onChange={dtlHandleChange}
-                        class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1"/>
+                        <span className="input-group-text" id="basic-addon1">Task ID</span>
+                        <input type="text" 
+                            name='dtl_taskId' value={dtlTask.thu_taskId} onChange={dtlHandleChange} 
+                            className="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1" />
                     </div>
                     <div className="input-group mb-3">
-                    <span className="input-group-text" id="basic-addon1">Task ID</span>
-                    <input type="text" 
-                        name='dtl_taskName' value={dtlTask.dtl_taskName} onChange={dtlHandleChange}
-                        class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1"/>
+                        <span className="input-group-text" id="basic-addon2">Task ID</span>
+                        <input type="text" 
+                            name='dtl_taskName' value={dtlTask.dtl_taskName} onChange={dtlHandleChange} 
+                            className="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon2" />
                     </div>
                     <div className="input-group mb-3">
-                        <label>Task Name</label>
-                        <input name='dtl_taskName' value={dtlTask.dtl_taskName} onChange={dtlHandleChange}/>
-                    </div>
-                    <div>
-                        <label>Task Level</label>
-                        <select name='dtl_level' value={dtlTask.nhp_level} onChange={dtlHandleChange}>
+                        <span className="input-group-text" id="basic-addon3">Task Level</span>
+            
+                        <select name='dtl_level' value={dtlTask.dtl_level} onChange={dtlHandleChange}  className="form-control" 
+                            aria-describedby="basic-addon"> 
                             <option value={'Small'}>Small</option>
                             <option value={'Medium'}>Medium</option>
                             <option value={'High'}>High</option>
                         </select>
                     </div>
+                   
                 <button onClick={dtlHandleSubmit} className='btn btn-primary'>ghi lai</button>
             </form>
         

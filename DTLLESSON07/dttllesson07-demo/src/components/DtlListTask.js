@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-export default function DtlListTask({ renderDtlListTasks, onDtlEdit }) {
+export default function DtlListTask({ renderDtlListTasks, onDtlEdit,nDtlDelete }) {
     console.log(renderDtlListTasks);
     const [dtlList, setDtlList] = useState(renderDtlListTasks);
 

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-export default function DtlListTask({ renderDtlListTasks, onDtlEdit,nDtlDelete }) {
+export default function DtlListTask({ renderDtlListTasks, onDtlEdit,onDtlTaskDelete }) {
     console.log(renderDtlListTasks);
     const [dtlList, setDtlList] = useState(renderDtlListTasks);
 
@@ -11,7 +11,13 @@ export default function DtlListTask({ renderDtlListTasks, onDtlEdit,nDtlDelete }
     const dtlHandleEdit = (param) => {
         console.log("Edit:", param);
         onDtlEdit();
-    };
+    }
+    const dtlHandleDelete = (param)=>{
+        if(window.confirm('Bạn có chắc chắn xóa không')){
+            onDtlTaskDelete(param) // Đẩy dữ liệu xóa lên trên App.js
+        }
+    }
+
 
     let dtlElementTask = dtlList.map((task, index) => (
         <tr key={index}>
@@ -21,7 +27,7 @@ export default function DtlListTask({ renderDtlListTasks, onDtlEdit,nDtlDelete }
             <td>{task.dtl_taskLevel}</td>
             <td>
                 <button className='btn btn-success' onClick={() => dtlHandleEdit(task)}>Edit</button>
-                <button className='btn btn-danger'>Remove</button>
+                <button className='btn btn-danger'onClick={() => dtlHandleDelete(task)}>Remove</button>
             </td>
         </tr>
     ));

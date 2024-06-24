@@ -11,20 +11,24 @@
 </p>
 <table class="table">
     <tr>
+         <th>
+            @Html.DisplayNameFor(model => model.DtlMaKH)
+        </th>
+
         <th>
             @Html.DisplayNameFor(model => model.DtlTenKH)
 
         </th>
-        <th>
-            @Html.DisplayNameFor(model => model.DtlMaKH)
-        </th>
-
+       
     
 </tr>
 
 
 @foreach (var item in Model) {
     <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.DtlMaKH)
+        </td>
         <td>
             @Html.DisplayFor(modelItem => item.DtlTenKH)
         </td>

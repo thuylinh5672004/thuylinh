@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DtlK22CNT1Lesson10ModelStoreContainer" CdmEntityContainer="DtlK22CNT1Lesson10Entities">
+    <EntitySetMapping Name="KetQua">
+      <EntityTypeMapping TypeName="DtlK22CNT1Lesson10Model.KetQua">
+        <MappingFragment StoreEntitySet="KetQua">
+          <ScalarProperty Name="DtlMaSV" ColumnName="DtlMaSV" />
+          <ScalarProperty Name="DtlMaMH" ColumnName="DtlMaMH" />
+          <ScalarProperty Name="DtlDiem" ColumnName="DtlDiem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="khoa">
+      <EntityTypeMapping TypeName="DtlK22CNT1Lesson10Model.khoa">
+        <MappingFragment StoreEntitySet="khoa">
+          <ScalarProperty Name="DtlMaKH" ColumnName="DtlMaKH" />
+          <ScalarProperty Name="DtlTenKH" ColumnName="DtlTenKH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MonHoc">
+      <EntityTypeMapping TypeName="DtlK22CNT1Lesson10Model.MonHoc">
+        <MappingFragment StoreEntitySet="MonHoc">
+          <ScalarProperty Name="DtlMaMH" ColumnName="DtlMaMH" />
+          <ScalarProperty Name="DtlTenMH" ColumnName="DtlTenMH" />
+          <ScalarProperty Name="DtlSoTiet" ColumnName="DtlSoTiet" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sinhvien">
+      <EntityTypeMapping TypeName="DtlK22CNT1Lesson10Model.Sinhvien">
+        <MappingFragment StoreEntitySet="Sinhvien">
+          <ScalarProperty Name="DtlMaSV" ColumnName="DtlMaSV" />
+          <ScalarProperty Name="DtlHoSV" ColumnName="DtlHoSV" />
+          <ScalarProperty Name="DtlTenSV" ColumnName="DtlTenSV" />
+          <ScalarProperty Name="DtlPhai" ColumnName="DtlPhai" />
+          <ScalarProperty Name="DtlNgaysinh" ColumnName="DtlNgaysinh" />
+          <ScalarProperty Name="DtlNoisinh" ColumnName="DtlNoisinh" />
+          <ScalarProperty Name="DtlMaKH" ColumnName="DtlMaKH" />
+          <ScalarProperty Name="DtlHocBong" ColumnName="DtlHocBong" />
+          <ScalarProperty Name="DtlDiemTB" ColumnName="DtlDiemTB" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="DtlK22CNT1Lesson10Model.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

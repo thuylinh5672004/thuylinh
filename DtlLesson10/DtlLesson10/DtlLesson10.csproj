@@ -130,7 +130,10 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\DtlkhoasController.cs" />
+    <Compile Include="Controllers\DtlSinhviensController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\KetQuasController.cs" />
+    <Compile Include="Controllers\MonHocsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -235,10 +238,25 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Dtlkhoas\DtlCreate.cshtml" />
-    <Content Include="Views\Dtlkhoas\DtDelete.cshtml" />
+    <Content Include="Views\Dtlkhoas\DtlDelete.cshtml" />
     <Content Include="Views\Dtlkhoas\DtlDetails.cshtml" />
     <Content Include="Views\Dtlkhoas\DtlEdit.cshtml" />
     <Content Include="Views\Dtlkhoas\DtlIndex.cshtml" />
+    <Content Include="Views\DtlSinhviens\DtlCreate.cshtml" />
+    <Content Include="Views\DtlSinhviens\DtlDelete.cshtml" />
+    <Content Include="Views\DtlSinhviens\DtlDetails.cshtml" />
+    <Content Include="Views\DtlSinhviens\DtlEdit.cshtml" />
+    <Content Include="Views\DtlSinhviens\DtlIndex.cshtml" />
+    <Content Include="Views\MonHocs\DtlCreate.cshtml" />
+    <Content Include="Views\MonHocs\DtlDelete.cshtml" />
+    <Content Include="Views\MonHocs\DtlDetails.cshtml" />
+    <Content Include="Views\MonHocs\DtlEdit.cshtml" />
+    <Content Include="Views\MonHocs\DtlIndex.cshtml" />
+    <Content Include="Views\KetQuas\DtlCreate.cshtml" />
+    <Content Include="Views\KetQuas\DtlDelete.cshtml" />
+    <Content Include="Views\KetQuas\DtlDetails.cshtml" />
+    <Content Include="Views\KetQuas\DtlEdit.cshtml" />
+    <Content Include="Views\KetQuas\DtlIndex.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

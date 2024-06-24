@@ -13,9 +13,15 @@
     <tr>
         <th>
             @Html.DisplayNameFor(model => model.DtlTenKH)
+
         </th>
-        <th></th>
-    </tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DtlMaKH)
+        </th>
+
+    
+</tr>
+
 
 @foreach (var item in Model) {
     <tr>
@@ -23,7 +29,7 @@
             @Html.DisplayFor(modelItem => item.DtlTenKH)
         </td>
         <td>
-            @Html.ActionLink("Dtl:Edit", "Edit", new { id=item.DtlMaKH.Trim() }) |
+            @Html.ActionLink("Dtl:Edit", "DtlEdit", new { id=item.DtlMaKH.Trim() }) |
             @Html.ActionLink("Dtl:Details", "DtlDetails", new { id=item.DtlMaKH.Trim() }) |
             @Html.ActionLink("Dtl:Delete", "DtlDelete", new { id=item.DtlMaKH.Trim() })
         </td>

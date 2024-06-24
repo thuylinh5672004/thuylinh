@@ -1,0 +1,45 @@
+﻿@model IEnumerable<DtlLesson10.Models.MonHoc>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("DtlCreate New", "DtlCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DtlTenMH)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DtlSoTiet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.KetQua.DtlMaMH)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.DtlTenMH)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DtlSoTiet)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.KetQua.DtlMaMH)
+        </td>
+        <td>
+            @Html.ActionLink("DtlEdit", "DtlEdit", new { id=item.DtlMaMH.Trim() }) |
+            @Html.ActionLink("DtlDetails", "DtlDetails", new { id=item.DtlMaMH.Trim() }) |
+            @Html.ActionLink("DtlDelete", "DtlDelete", new { id=item.DtlMaMH.Trim() })
+        </td>
+    </tr>
+}
+
+</table>

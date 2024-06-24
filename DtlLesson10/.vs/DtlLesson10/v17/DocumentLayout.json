@@ -3,23 +3,99 @@
   "WorkspaceRootPath": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\controllers\\ketquascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\controllers\\ketquascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\dtllesson10\\views\\shared\\dtl_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\shared\\dtl_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\controllers\\monhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\controllers\\monhocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\monhocs\\dtlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\monhocs\\dtlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\monhocs\\dtlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\monhocs\\dtlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\monhocs\\dtldelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\monhocs\\dtldelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\monhocs\\dtledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\monhocs\\dtledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\monhocs\\dtldetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\monhocs\\dtldetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\ketquas\\dtlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\ketquas\\dtlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\ketquas\\dtledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\ketquas\\dtledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\dtlkhoas\\dtledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\dtlkhoas\\dtledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\dtlkhoas\\dtldelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\dtlkhoas\\dtldelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\dtllesson10\\views\\dtlkhoas\\dtlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\dtlkhoas\\dtlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\dtlkhoas\\dtldetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\dtlkhoas\\dtldetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\controllers\\dtlsinhvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\controllers\\dtlsinhvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\controllers\\dtlkhoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\controllers\\dtlkhoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\dtlkhoas\\dtlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\dtlkhoas\\dtlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\dtlsinhviens\\dtlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\dtlsinhviens\\dtlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\shared\\dtl_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\shared\\dtl_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\dtlsinhviens\\dtldetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\dtlsinhviens\\dtldetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\dtlsinhviens\\dtlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\dtlsinhviens\\dtlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\dtlsinhviens\\dtldelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\dtlsinhviens\\dtldelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\dtlsinhviens\\dtledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\dtlsinhviens\\dtledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\dtlkhoas\\dtlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\dtlkhoas\\dtlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\dtllesson10\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|d:\\baitap c#\\visual studoi 2019\\web\\dtllesson10\\dtllesson10\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\dtllesson10\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1F316286-09D1-45A7-9A65-52DE916A5424}|DtlLesson10\\DtlLesson10.csproj|solutionrelative:dtllesson10\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,50 +106,297 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DtlIndex.cshtml",
-              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\Dtlkhoas\\DtlIndex.cshtml",
-              "RelativeDocumentMoniker": "DtlLesson10\\Views\\Dtlkhoas\\DtlIndex.cshtml",
-              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\Dtlkhoas\\DtlIndex.cshtml",
-              "RelativeToolTip": "DtlLesson10\\Views\\Dtlkhoas\\DtlIndex.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAiAAAA",
+              "DocumentIndex": 6,
+              "Title": "DtlEdit.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\MonHocs\\DtlEdit.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\MonHocs\\DtlEdit.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\MonHocs\\DtlEdit.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\MonHocs\\DtlEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T02:46:07.511Z",
+              "WhenOpened": "2024-06-24T04:17:30.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DtlDelete.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\MonHocs\\DtlDelete.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\MonHocs\\DtlDelete.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\MonHocs\\DtlDelete.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\MonHocs\\DtlDelete.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T04:17:03.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DtlCreate.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\MonHocs\\DtlCreate.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\MonHocs\\DtlCreate.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\MonHocs\\DtlCreate.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\MonHocs\\DtlCreate.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T04:16:48.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MonHocsController.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Controllers\\MonHocsController.cs",
+              "RelativeDocumentMoniker": "DtlLesson10\\Controllers\\MonHocsController.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Controllers\\MonHocsController.cs",
+              "RelativeToolTip": "DtlLesson10\\Controllers\\MonHocsController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAADwv3cAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T04:12:41.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KetQuasController.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Controllers\\KetQuasController.cs",
+              "RelativeDocumentMoniker": "DtlLesson10\\Controllers\\KetQuasController.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Controllers\\KetQuasController.cs",
+              "RelativeToolTip": "DtlLesson10\\Controllers\\KetQuasController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAwHoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T04:19:55.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DtlIndex.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\MonHocs\\DtlIndex.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\MonHocs\\DtlIndex.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\MonHocs\\DtlIndex.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\MonHocs\\DtlIndex.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T04:17:40.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Dtl_Layout.cshtml",
               "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\Shared\\Dtl_Layout.cshtml",
               "RelativeDocumentMoniker": "DtlLesson10\\Views\\Shared\\Dtl_Layout.cshtml",
               "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\Shared\\Dtl_Layout.cshtml",
               "RelativeToolTip": "DtlLesson10\\Views\\Shared\\Dtl_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABKAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-24T02:34:35.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "DtlDetails.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\MonHocs\\DtlDetails.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\MonHocs\\DtlDetails.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\MonHocs\\DtlDetails.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\MonHocs\\DtlDetails.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T04:16:31.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DtlIndex.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\KetQuas\\DtlIndex.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\KetQuas\\DtlIndex.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\KetQuas\\DtlIndex.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\KetQuas\\DtlIndex.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAC0AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T04:22:31.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DtlEdit.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\KetQuas\\DtlEdit.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\KetQuas\\DtlEdit.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\KetQuas\\DtlEdit.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\KetQuas\\DtlEdit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T04:22:20.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DtlEdit.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\Dtlkhoas\\DtlEdit.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\Dtlkhoas\\DtlEdit.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\Dtlkhoas\\DtlEdit.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\Dtlkhoas\\DtlEdit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T03:42:28.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DtlDelete.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\Dtlkhoas\\DtlDelete.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\Dtlkhoas\\DtlDelete.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\Dtlkhoas\\DtlDelete.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\Dtlkhoas\\DtlDelete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T03:42:11.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DtlDetails.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\Dtlkhoas\\DtlDetails.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\Dtlkhoas\\DtlDetails.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\Dtlkhoas\\DtlDetails.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\Dtlkhoas\\DtlDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T03:42:19.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DtlIndex.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\Dtlkhoas\\DtlIndex.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\Dtlkhoas\\DtlIndex.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\Dtlkhoas\\DtlIndex.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\Dtlkhoas\\DtlIndex.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T02:46:07.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DtlCreate.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\DtlSinhviens\\DtlCreate.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\DtlSinhviens\\DtlCreate.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\DtlSinhviens\\DtlCreate.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\DtlSinhviens\\DtlCreate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T04:06:12.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DtlDelete.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\DtlSinhviens\\DtlDelete.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\DtlSinhviens\\DtlDelete.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\DtlSinhviens\\DtlDelete.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\DtlSinhviens\\DtlDelete.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T04:06:02.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DtlDetails.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\DtlSinhviens\\DtlDetails.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\DtlSinhviens\\DtlDetails.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\DtlSinhviens\\DtlDetails.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\DtlSinhviens\\DtlDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T04:05:32.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DtlSinhviensController.cs",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Controllers\\DtlSinhviensController.cs",
+              "RelativeDocumentMoniker": "DtlLesson10\\Controllers\\DtlSinhviensController.cs",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Controllers\\DtlSinhviensController.cs",
+              "RelativeToolTip": "DtlLesson10\\Controllers\\DtlSinhviensController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAA0wDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:01:48.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DtlIndex.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\DtlSinhviens\\DtlIndex.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\DtlSinhviens\\DtlIndex.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\DtlSinhviens\\DtlIndex.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\DtlSinhviens\\DtlIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T03:06:23.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "DtlkhoasController.cs",
               "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Controllers\\DtlkhoasController.cs",
               "RelativeDocumentMoniker": "DtlLesson10\\Controllers\\DtlkhoasController.cs",
               "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Controllers\\DtlkhoasController.cs",
               "RelativeToolTip": "DtlLesson10\\Controllers\\DtlkhoasController.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAAwHIAAAAwAAAA",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAowHEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T02:29:34.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 21,
+              "Title": "DtlCreate.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\Dtlkhoas\\DtlCreate.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\Dtlkhoas\\DtlCreate.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\Dtlkhoas\\DtlCreate.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\Dtlkhoas\\DtlCreate.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T03:41:46.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DtlEdit.cshtml",
+              "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\DtlSinhviens\\DtlEdit.cshtml",
+              "RelativeDocumentMoniker": "DtlLesson10\\Views\\DtlSinhviens\\DtlEdit.cshtml",
+              "ToolTip": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\DtlSinhviens\\DtlEdit.cshtml",
+              "RelativeToolTip": "DtlLesson10\\Views\\DtlSinhviens\\DtlEdit.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAF4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T04:05:19.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "DtlLesson10\\Views\\Home\\Contact.cshtml",
@@ -86,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 23,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Baitap c#\\visual studoi 2019\\web\\DtlLesson10\\DtlLesson10\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "DtlLesson10\\Views\\_ViewStart.cshtml",

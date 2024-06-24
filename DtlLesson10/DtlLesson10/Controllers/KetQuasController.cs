@@ -10,109 +10,118 @@ using DtlLesson10.Models;
 
 namespace DtlLesson10.Controllers
 {
-    public class DtlkhoasController : Controller
+    public class KetQuasController : Controller
     {
         private DtlK22CNT1Lesson10Entities db = new DtlK22CNT1Lesson10Entities();
 
-        // GET: Dtlkhoas
+        // GET: KetQuas
         public ActionResult DtlIndex()
         {
-            return View(db.khoa.ToList());
+            var ketQua = db.KetQua.Include(k => k.MonHoc).Include(k => k.Sinhvien);
+            return View(ketQua.ToList());
         }
 
-        // GET: Dtlkhoas/Details/5
+        // GET: KetQuas/Details/5
         public ActionResult DtlDetails(string id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            khoa khoa = db.khoa.Find(id);
-            if (khoa == null)
+            KetQua ketQua = db.KetQua.Find(id);
+            if (ketQua == null)
             {
                 return HttpNotFound();
             }
-            return View(khoa);
+            return View(ketQua);
         }
 
-        // GET: Dtlkhoas/Create
+        // GET: KetQuas/Create
         public ActionResult DtlCreate()
         {
+            ViewBag.DtlMaSV = new SelectList(db.MonHoc, "DtlMaMH", "DtlTenMH");
+            ViewBag.DtlMaSV = new SelectList(db.Sinhvien, "DtlMaSV", "DtlHoSV");
             return View();
         }
 
-        // POST: Dtlkhoas/Create
+        // POST: KetQuas/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult DtlCreate([Bind(Include = "DtlMaKH,DtlTenKH")] khoa khoa)
+        public ActionResult DtlCreate([Bind(Include = "DtlMaSV,DtlMaMH,DtlDiem")] KetQua ketQua)
         {
             if (ModelState.IsValid)
             {
-                db.khoa.Add(khoa);
+                db.KetQua.Add(ketQua);
                 db.SaveChanges();
                 return RedirectToAction("DtlIndex");
             }
 
-            return View(khoa);
+            ViewBag.DtlMaSV = new SelectList(db.MonHoc, "DtlMaMH", "DtlTenMH", ketQua.DtlMaSV);
+            ViewBag.DtlMaSV = new SelectList(db.Sinhvien, "DtlMaSV", "DtlHoSV", ketQua.DtlMaSV);
+            return View(ketQua);
         }
 
-        // GET: Dtlkhoas/Edit/5
+        // GET: KetQuas/Edit/5
         public ActionResult DtlEdit(string id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            khoa khoa = db.khoa.Find(id);
-            if (khoa == null)
+            KetQua ketQua = db.KetQua.Find(id);
+            if (ketQua == null)
             {
                 return HttpNotFound();
             }
-            return View(khoa);
+            ViewBag.DtlMaSV = new SelectList(db.MonHoc, "DtlMaMH", "DtlTenMH", ketQua.DtlMaSV);
+            ViewBag.DtlMaSV = new SelectList(db.Sinhvien, "DtlMaSV", "DtlHoSV", ketQua.DtlMaSV);
+            return View(ketQua);
         }
 
-        // POST: Dtlkhoas/Edit/5
+        // POST: KetQuas/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult DtlEdit([Bind(Include = "DtlMaKH,DtlTenKH")] khoa khoa)
+        public ActionResult DtlEdit([Bind(Include = "DtlMaSV,DtlMaMH,DtlDiem")] KetQua ketQua)
         {
             if (ModelState.IsValid)
             {
-                db.Entry(khoa).State = EntityState.Modified;
+                db.Entry(ketQua).State = EntityState.Modified;
                 db.SaveChanges();
-                return RedirectToAction("DtlIndex");
+                return RedirectToAction("Index");
             }
-            return View(khoa);
+            ViewBag.DtlMaSV = new SelectList(db.MonHoc, "DtlMaMH", "DtlTenMH", ketQua.DtlMaSV);
+            ViewBag.DtlMaSV = new SelectList(db.Sinhvien, "DtlMaSV", "DtlHoSV", ketQua.DtlMaSV);
+            return View(ketQua);
         }
 
-        // GET: Dtlkhoas/Delete/5
+        // GET: KetQuas/Delete/5
         public ActionResult DtlDelete(string id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            khoa khoa = db.khoa.Find(id);
-            if (khoa == null)
+            KetQua ketQua = db.KetQua.Find(id);
+            if (ketQua == null)
             {
                 return HttpNotFound();
             }
-            return View(khoa);
+            return View(ketQua);
         }
 
-        // POST: Dtlkhoas/Delete/5
+        // POST: KetQuas/Delete/5
         [HttpPost, ActionName("DtlDelete")]
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(string id)
         {
-            khoa khoa = db.khoa.Find(id);
-            db.khoa.Remove(khoa);
+            KetQua ketQua = db.KetQua.Find(id);
+            db.KetQua.Remove(ketQua);
             db.SaveChanges();
-            return RedirectToAction("DtlIndex");
+            return RedirectToAction("Index");
         }
 
         protected override void Dispose(bool disposing)

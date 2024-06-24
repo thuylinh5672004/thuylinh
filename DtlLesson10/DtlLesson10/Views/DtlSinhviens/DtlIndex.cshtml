@@ -1,0 +1,81 @@
+﻿@model IEnumerable<DtlLesson10.Models.Sinhvien>
+
+@{
+    ViewBag.Title = "DtlIndex";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Dtl:Create New", "DtlCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DtlHoSV)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DtlTenSV)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DtlPhai)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DtlNgaysinh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DtlNoisinh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DtlHocBong)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DtlDiemTB)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.KetQua.DtlMaMH)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.khoa.DtlTenKH)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.DtlHoSV)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DtlTenSV)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DtlPhai)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DtlNgaysinh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DtlNoisinh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DtlHocBong)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DtlDiemTB)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.KetQua.DtlMaMH)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.khoa.DtlTenKH)
+        </td>
+        <td>
+            @Html.ActionLink("Dtl:Edit", "DtlEdit", new { id=item.DtlMaSV.Trim() }) |
+            @Html.ActionLink("Dtl:Details", "DtlDetails", new { id=item.DtlMaSV.Trim() }) |
+            @Html.ActionLink("Dtl:Delete", "DtlDelete", new { id=item.DtlMaSV.Trim() })
+        </td>
+    </tr>
+}
+
+</table>

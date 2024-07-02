@@ -20,7 +20,7 @@
                     <li>@Html.ActionLink("Home", "DtlIndex", "DtlHome", new { area = "" }, new { @class = "nav-link" })</li>
                     <li>@Html.ActionLink("About", "DtlAbout", "DtlHome", new { area = "" }, new { @class = "nav-link" })</li>
                     <li>@Html.ActionLink("Contact", "DtlContact", "DtlHome", new { area = "" }, new { @class = "nav-link" })</li>
-                    @if (HttpContext.Current.Session["DtlTvcMember"] != null)
+                    @if (HttpContext.Current.Session["DtlMember"] != null)
                     {
                         DtlK22CNT1Lesson11.Models.DtlTaiKhoan dtlModel = (DtlK22CNT1Lesson11.Models.DtlTaiKhoan)(HttpContext.Current.Session["DtlMember"]);
 

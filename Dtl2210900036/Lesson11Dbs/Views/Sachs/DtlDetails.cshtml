@@ -1,0 +1,59 @@
+﻿@model Lesson11Dbs.Models.Sach
+
+@{
+    ViewBag.Title = "DtlDetails";
+    Layout = "~/Views/Shared/Dtl_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Sach</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DtlTenSach)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DtlTenSach)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DtlSoTrang)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DtlSoTrang)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DtlNamXB)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DtlNamXB)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DtlTrangThai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DtlTrangThai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tacgia.DtlTenTG)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tacgia.DtlTenTG)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.DtlMaSach }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

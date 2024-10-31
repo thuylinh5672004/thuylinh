@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Daothithuylinhproject2_2210900036.Models.CHITIETDONHANG>
+
+@{
+    ViewBag.Title = "Chi tiết đơn hàng";
+    Layout = "~/Areas/DTLinhAdmin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Chi tiết đơn hàng</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Tongtien)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ngaydat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DONHANG.MaKH)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SANPHAM.TenSP)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tongtien)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ngaydat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DONHANG.MaKH)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SANPHAM.TenSP)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.MaChiTietDH.Trim() }) |
+            @Html.ActionLink("Details", "Details", new { id=item.MaChiTietDH.Trim() }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.MaChiTietDH.Trim() })
+        </td>
+    </tr>
+}
+
+</table>

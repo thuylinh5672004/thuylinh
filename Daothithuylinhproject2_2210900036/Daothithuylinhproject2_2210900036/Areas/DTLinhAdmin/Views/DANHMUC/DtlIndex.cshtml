@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Daothithuylinhproject2_2210900036.Models.DANHMUC>
+
+@{
+    ViewBag.Title = "Danh mục";
+    Layout = "~/Areas/DTLinhAdmin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Danh mục</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MaDM)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TenDM)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+             @Html.DisplayFor(modelItem => item.MaDM)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenDM)
+        </td>
+        <td>
+            @Html.ActionLink("DtlEdit", "DtlEdit", new { id=item.MaDM.Trim() }) |
+            @Html.ActionLink("DtlDetails", "DtlDetails", new { id=item.MaDM.Trim() }) |
+            @Html.ActionLink("DtlDelete", "DtlDelete", new { id=item.MaDM.Trim() })
+        </td>
+    </tr>
+}
+
+</table>
